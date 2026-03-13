@@ -52,3 +52,11 @@ Fabric rolls are cut into specific lengths and stitched to form sacks according 
 - Quality Inspection and Packaging
 Finished sacks are inspected for defects and packaged for shipment.
 
+## Scheduling Problem in Loom Operations
+
+Among the various stages, loom operations represent a major production bottleneck due to the following characteristics:
+- Limited number of loom machines
+- Long and variable production times for different sack specifications
+- Frequent job changes based on order requirements
+- Need to maximize machine utilization while meeting delivery timelines
+- Efficient scheduling of loom machines is therefore critical for maintaining production throughput and minimizing idle time.
