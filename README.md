@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides an optimization-based scheduling solution for industrial job scheduling problems using the Gurobi Optimizer.
+This repository provides an optimization-based scheduling solution for industrial job scheduling problems using Multi-Integer Linear Programming.
 
 The original implementation was developed to solve the loom machine scheduling problem in the plastic woven sack manufacturing industry, where multiple jobs must be allocated across limited loom machines while respecting operational constraints.
 However, the framework is generalizable to other manufacturing scheduling problems with minor adjustments to parameters and constraints.
